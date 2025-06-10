@@ -4,3 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+anyhow = "1.0.98"
+clap = "4.5.39"
+cpal = "0.16.0"
+tracing = "0.1.41"
